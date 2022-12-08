@@ -1,5 +1,5 @@
 {
-  "seq_length": 5592,
-  "test1":1,
-  "test2":2
+  "key": "Seq length",
+  "value": 5592,
+  "alt_value": 1234
 }
